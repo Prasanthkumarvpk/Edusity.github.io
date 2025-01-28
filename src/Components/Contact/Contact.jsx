@@ -38,7 +38,7 @@ const Contact = () => {
         <div className="contact-col">
           <h3>Send us a message<img src={msg_icon} alt='' /></h3>
           <p>
-            Fell free to reach out through contact form or find our contact
+            Feel free to reach out through contact form or find our contact
             information below.Your feedback, questions, and suggestions are
             important to us as we strive to provide exceptional service to our
             university community.
